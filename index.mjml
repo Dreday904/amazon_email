@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+    <mj-title>Transactional Email</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="500" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#ffffff" padding="25px 0">
+      <mj-column width="100%">
+      <mj-image src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png">
+        </mj-image>
+        <mj-divider border-width="1px" border-color="#a3a3a2" width="100%"></mj-divider>
+        <mj-text font-size="10px"><span style="font-size:20px; color:#c2780a">Hello Jane,</span></mj-text>
+        <mj-text align="left">Thank you for shopping with us. We’ll send a confirmation when your item ships.</mj-text>
+      </mj-column>
+      <mj-column width="40%">
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="left"><span style="font-size:20px; color:#c2780a">Details</span></mj-text>
+        <mj-divider border-width="1px" border-color="#a3a3a2" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <p>Order: <span style="color:blue; cursor:pointer">#112-3590395-23598938</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f4f4f4" padding-bottom="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="1px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:grey; font-size:16px;">Arriving:</p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#29ad1f"><b>Sunday, May 29</b></p>
+        </mj-text>
+        <mj-button align="left" background-color="#fac055" color="black" border="2px solid #e6a52e ">View or manage order</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="1px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:grey; font-size:16px; ">Ship to:</p>
+          <p style="line-height: 16px; margin: 10px 0;font-siz
+          e:14px; color:#151e23; ; color:#354552"><b>Jane Doe</p>
+          <p style="line-height: px; margin: 10px 0; color:#354552; font-size:14px;"> MARYJANE TOWNSHIP,</p>
+          <p style="line-height: 10px; margin: 10px 0; color:#354552; font-size:14px;"> MI</p>
+          <p style="line-height: 42px; margin: 10px 0; color:#354552; font-size:14px;"> Order Total: $33.90</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <p style="color:black">We hope to see you again soon. </p>
+          <p style="font-size:20px"><b>Amazon.com </p>
+        </mj-text>
+        <mj-text>
+          <p style="font-size:20px;  color:#c2780a">Customers Who Bought Items in Your Order Also Bought</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#a3a3a2" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-column width="100px">
+        <mj-image padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="20px" padding="10px 25px" src="https://m.media-amazon.com/images/I/61PVhKChJfL._AC_SX80_SY80_SS80_.jpg">
+        </mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <p style="font-size: 14px">Kakashi Portable<br> Neck Fan</b></p>
+          <p>$27.99</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100px">
+        <mj-image padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="20px" padding="10px 25px" src="https://m.media-amazon.com/images/I/71wjIbaMKBL._AC_SX80_SY80_SS80_.jpg">
+        </mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <p style="font-size: 14px">CXLiy Portable Air Conditioner Neckfan</b></p>
+          <p>$27.99</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#a3a3a2" width="100%"></mj-divider>
+        <mj-text>
+          <p style="font-size:10px">The payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075</p>
+          <p style="font-size:10px"> By placing your order, you agree to Amazon.com’s <span style="color:blue; cursor:pointer">Privacy Notice</span> and <span style="color:blue; cursor:pointer">Conditions of Use.</span> Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about <span style="color:blue; cursor:pointer">tax and seller information.</span> </p>
+          <p style="font-size:10px">This email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message.</p>
+        </mj-text>
+      </mj-column>
+  </mj-body>
+</mjml>
